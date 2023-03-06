@@ -1,6 +1,6 @@
 import * as THREE from'three';
 
-import img from "../img/IMG_20230304_125818.jpg"
+import img from "../img/heart.avif"
 
 const renderer = new THREE.WebGLRenderer();
 
